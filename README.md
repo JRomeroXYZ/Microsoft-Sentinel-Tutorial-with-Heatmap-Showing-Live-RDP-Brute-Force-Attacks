@@ -41,4 +41,4 @@ Step-by-step overview of the lab:
 
 To view the full file with instructions and photos go to the pdf file 
 
-To view hyperlinks from the pdf file go to the Links folder
+To view hyperlinks from the pdf file go to the Links file
