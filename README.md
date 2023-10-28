@@ -40,3 +40,5 @@ Step-by-step overview of the lab:
 5.	Configure Microsoft Sentinel to gain insights into intrusion attempts. Create visual maps that display the origin and characteristics of these attacks, allowing the identification of the geographic locations and other relevant details of the attackers.
 
 To view the full file with instructions and photos go to the pdf file 
+
+To view hyperlinks from the pdf file go to the Links folder
